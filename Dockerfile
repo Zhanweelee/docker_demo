@@ -9,3 +9,4 @@ RUN echo "Hello, World!" > hello.txt
 
 # 设置容器启动时要执行的命令
 CMD ["cat", "hello.txt"]
+
